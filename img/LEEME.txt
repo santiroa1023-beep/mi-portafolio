@@ -1,0 +1,3 @@
+La página está configurada para cargar tu fotografía desde: img/Santy.jpeg
+Coloca aquí el archivo original Santy.jpeg (el mismo que ya tienes en tu proyecto).
+IMPORTANTE: este ZIP no incluye la fotografía original porque solo se compartió una captura de pantalla donde aparece su nombre.
